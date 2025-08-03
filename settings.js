@@ -6,11 +6,11 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "lucky~uQEwEb6Q#_VA4_sxM9XL37XFK05Y859GbU05IcxpIQILskraBDQA",
 // add your Session Id make sure it starts with lucky~
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "LUCKY-XD",
+BOT_NAME: process.env.BOT_NAME || "MADU-xd",
 // add bot name here for menu
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
@@ -56,7 +56,7 @@ LINK_WHITELIST: "youtube.com,github.com",
 // add alive msg here 
 
 
-        STICKER_NAME: process.env.STICKER_NAME || "LUCKY-XD",
+        STICKER_NAME: process.env.STICKER_NAME || "MADU-XD",
 // type sticker pack name 
 
         CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
@@ -68,13 +68,13 @@ LINK_WHITELIST: "youtube.com,github.com",
           DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 
-          OWNER_NUMBER: process.env.OWNER_NUMBER || "",
+          OWNER_NUMBER: process.env.OWNER_NUMBER || "94772128094",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "",
+OWNER_NAME: process.env.OWNER_NAME || "THARIDU 886",
 // add bot owner name
 
-              DESCRIPTION: process.env.DESCRIPTION || "*© Powered By Lucky Tech Hub*",
+              DESCRIPTION: process.env.DESCRIPTION || "*© POWER BY MADU OFFICIAL *",
 // add bot owner name    
 
         READ_MESSAGE: process.env.READ_MESSAGE || "false",
